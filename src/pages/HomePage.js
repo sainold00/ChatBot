@@ -25,7 +25,7 @@ class HomePage extends Component {
 
         //OpenAI
         const configuration = new Configuration({
-            apiKey: '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',
+            apiKey: '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',
         });
         const openai = new OpenAIApi(configuration);
 
